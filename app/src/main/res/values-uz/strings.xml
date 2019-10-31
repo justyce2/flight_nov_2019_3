@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">"Arzon reyslar va aviachiptalar"</string>
+    <string name="gdpr_title">"Reklama tajribangizni shaxsiylashtirish"</string>
+    <string name="gdpr_main_text">"Appodeal yordamida %s reklama tajribangizni shaxsiylashtiradi. Appodeal va uning sheriklari sizga moslashtirilgan reklama tajribasini taqdim qilish uchun qurilma identifikatorlari, joylashuv ma'lumotlari va boshqa demografik va qiziqish ma'lumotlari kabi shaxsiy ma'lumotlarni to'plashi va ishlashi mumkin. Ushbu takomillashtirilgan reklama tajribasiga rozilik bildirsangiz, siz Appodeal va uning sheriklari sizga ko'proq mos keladigan deb hisoblanadigan reklamalarni ko'rasiz. Ko'proq ma'lumot oling. \ N \ n Roziman, siz 16 yoshga to'lganligingizni va shaxsiy reklama tajribangizni yoqtirishingizni tasdiqlaysiz."</string>
+    <string name="gdpr_agree_text">"Ajoyib. Shaxsiy reklama tajribangiz sizga yoqadi degan umiddamiz. Agar siz doimo fikringizni o'zgartirsangiz, Android qurilmangizda Sozlamalar / Google / Ads ostida \"Reklama shaxsiylashtirishni rad etish\" ni yoqib, keyin ushbu ilovani qayta ishga tushirib, roziligingizni qaytarib olishingiz mumkin."</string>
+    <string name="gdpr_disagree_text">"Appodeal ushbu ilovada shaxsiylashtirilgan reklama uchun ma'lumotlaringizni yig'a olmaydi. Ammo, agar siz Appodeal-ni boshqa ilovada reklama tajribangizni shaxsiylashtirishga ruxsat bergan bo'lsangiz, biz o'sha boshqa ilovada ma'lumotlaringizni yig'amiz."</string>
+    <string name="gdpr_agree">"Ha roziman"</string>
+    <string name="gdpr_disagree">"Rahmat kerak emas"</string>
+    <string name="gdpr_close">"Oynani yoping"</string>
+
+    <string name="gdpr_consent_not_granted">"GDPR roziligi berilmadi. SDK ishga tushirilmadi"</string>
+    <string name="gdpr_opt_out_enabled">"Reklama shaxsiylashtirishni rad qilish yoqilgan. SDK ishga tushirilmadi"</string>
+    <string name="gdpr_understand">"Men hali ham reklamalarni ko'rishni tushunaman, lekin ular mening manfaatlarimga mos kelmasligi mumkin."</string>
+
+</resources>

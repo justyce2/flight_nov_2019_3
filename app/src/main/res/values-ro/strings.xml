@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">"Bilete de avion ieftine și bilete de avion"</string>
+    <string name="gdpr_title">"Personalizați-vă experiența publicitară"</string>
+    <string name="gdpr_main_text">"%s personalizează experiența dvs. publicitară folosind Appodeal. Appodeal și partenerii săi pot colecta și prelucra date cu caracter personal, cum ar fi identificatorii dispozitivului, datele despre locație și alte date demografice și de interes, pentru a oferi experiență publicitară adaptată dvs. Acordând această experiență publicitară îmbunătățită, veți vedea anunțuri despre care Appodeal și partenerii săi consideră că sunt mai relevante pentru dvs. Aflați mai multe. \ N \ nPentru a fi de acord, confirmați că aveți peste 16 ani și doriți o experiență personalizată de anunțuri."</string>
+    <string name="gdpr_agree_text">"Grozav. Sperăm să vă bucurați de experiența dvs. publicitară personalizată. Dacă vă răzgândiți vreodată, vă puteți retrage consimțământul activând „Renunțați la personalizarea anunțurilor” în Setări / Google / Anunțuri pe dispozitivul dvs. Android și apoi reporniți această aplicație."</string>
+    <string name="gdpr_disagree_text">"Appodeal nu va colecta datele dvs. pentru publicitate personalizată în această aplicație. Cu toate acestea, dacă autorizați Appodeal să vă personalizeze experiența publicitară într-o altă aplicație, vom colecta datele dvs. în acea altă aplicație."</string>
+    <string name="gdpr_agree">"Da sunt de acord"</string>
+    <string name="gdpr_disagree">"Nu, mulțumesc"</string>
+    <string name="gdpr_close">"Fereastră închisă"</string>
+
+    <string name="gdpr_consent_not_granted">"Consimțământul GDPR nu a fost acordat. SDK nu a fost inițializat"</string>
+    <string name="gdpr_opt_out_enabled">"Renunțați la personalizarea anunțurilor activată. SDK nu a fost inițializat"</string>
+    <string name="gdpr_understand">"Am înțeles că voi vedea în continuare reclame, dar este posibil să nu fie la fel de relevante pentru interesele mele."</string>
+
+</resources>
